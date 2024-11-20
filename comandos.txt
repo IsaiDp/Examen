@@ -1,0 +1,431 @@
+    1  code hello.c
+    2  make hello
+    3  code hello.c
+    4  make hello
+    5  ./hello
+    6  make hello
+    7  ./hello
+    8  clear
+    9  code hello.py
+   10  py hello.py
+   11  clear
+   12  code hello.py
+   13  python hello.py
+   14  make hello.c
+   15  ./hello
+   16  clear
+   17  make hello.c
+   18  ./hello
+   19  python hello.py
+   20  clear
+   21  python hello.py
+   22  python hello.py
+   23  python hello.py
+   24  make.c
+   25  clear
+   26  code.c
+   27  clear
+   28  make.c
+   29  clear
+   30  ./hello
+   31  make.c
+   32  clear
+   33  ./hello
+   34  make hello.c
+   35  clear
+   36  make hello
+   37  clear
+   38  make hello
+   39  ./hello
+   40  whoami
+   41  pwd
+   42  mkdir folder1
+   43  pwd
+   44  ls
+   45   cd folder/
+   46  cd folder1/+
+   47  cd folder1/
+   48  touch filr2.txt
+   49  clear
+   50  clear
+   51  cclear
+   52  pwd
+   53  mkdir folder1
+   54  pwd
+   55  ls
+   56  cd folder1
+   57  code file1.txt
+   58  touch file2
+   59  history
+   60  pwd
+   61  return
+   62  cd..
+   63  ls folder1/
+   64  touch dolder1/file3.txt
+   65  touch folder1/file3.txt
+   66  touch folder1/file3.txt
+   67  pwd
+   68  cd ..
+   69  pwd
+   70  touch folder1/file3.txt
+   71  pwd
+   72  touch cajeta.err
+   73  rm - rf cajeta.err
+   74  cd ..
+   75  pwd
+   76  rm -rf cajeta.rr
+   77  cd ..
+   78  rm .rf cajeta.err
+   79  pwd
+   80  cd ..
+   81  rm .r foldercito
+   82  mkdir soy un burro
+   83  mkdir "soy un burro"
+   84  cat historial.txt
+   85  make hello
+   86  ./hello
+   87  make hello
+   88  ./10_07_24
+   89  make hello
+   90  ./practicaa
+   91  make hello
+   92  ./ make pract
+   93  make practicaa
+   94  ls
+   95  cd practica2
+   96  make practicaa
+   97  make practicaa
+   98  make./practica2/practicaa
+   99  make practicaa
+  100   make practicaa
+  101  ls
+  102  make practicaa
+  103  nake practocaa
+  104  make practicaa
+  105  make practicaa
+  106  ls
+  107  make
+  108  make practicaa
+  109  make practicaa 
+  110  ./practicaa
+  111  echo $?
+  112  makedcdc..
+  113  cd..
+  114  pwd
+  115  cd ..
+  116  mkdir folder1/folderA
+  117  mkdir foler1/folderA
+  118  mkdir folder1/folderA
+  119  mkdir folder1/folderA
+  120  mkdir folderA/folderI
+  121  mkdir folder1
+  122  cd folder1
+  123  mkdir folderA
+  124  cd folderA
+  125  mkdir folderI
+  126  cd .. folder1
+  127  pwd
+  128  mkdir folderA / folerII
+  129  cd folder1
+  130   mkdir folderI/FolderII
+  131  cd ..
+  132  cd folderA
+  133  mkdir folderA/folderII
+  134  CD ..
+  135  cd ..
+  136  mkdir folder1
+  137  mkdir folder1/mkdir folderA
+  138  cd folder1
+  139  mkdir folder A
+  140  mkdir folderA
+  141  mkdir folderA/ folderI
+  142  cd folderA
+  143  mkdir folderI
+  144  mkdir folderII
+  145  cd folderII
+  146  code bucles.c
+  147  mkdir folderX
+  148  make../bucles
+  149  makke bucles
+  150  make bubles
+  151  make bucles
+  152  ./
+  153  make bubles
+  154  make bucles
+  155  cd folder1
+  156  cd folderA
+  157  cd folderI
+  158  cd folderII
+  159  cd folderII
+  160  cd .. folderI
+  161  cd ..
+  162  cd folderII
+  163  cd folderX
+  164  make ../bucles
+  165  ../bucles
+  166  make pract4
+  167  touch pract4
+  168  make pract4
+  169  make pract4
+  170  ./ pract4
+  171  mkdir pract5
+  172  cd pract5
+  173  touch p5
+  174  mkdir pc5
+  175  cd ..
+  176  make pc6
+  177  ./ pc6
+  178  cd folder1
+  179  make pc6
+  180  make pc6
+  181  ls
+  182  make ps6
+  183  make pc6
+  184  cd
+  185  pwd
+  186  cd folder1
+  187  cd folderA
+  188  cd folderl
+  189  cd folder1.1
+  190  make pc6.c
+  191  n
+  192  pwd
+  193  cd folder1
+  194  cd folderA
+  195  cd folder1.1
+  196  make pc6
+  197  ./pc6
+  198  cd ..
+  199  cd ..
+  200  cds ..
+  201  cd ..
+  202  cd pract5
+  203  cd p5
+  204  pc55
+  205  pc5
+  206  touch pc5
+  207  ./p5
+  208  p5
+  209  cd
+  210  cd pract5
+  211  make pc5
+  212  ./p5
+  213  make p5
+  214  cd practica5
+  215  make prc5.1
+  216  make prc5.1
+  217  ./prc5.1
+  218  cd ..
+  219  cd practica5
+  220  cd /workspaces/179848462/practica5
+  221  /usr/local/bin/python /workspaces/179848462/practica5/pract5.1.py
+  222  python pract5.1.py
+  223  make while
+  224  ./while
+  225  python
+  226  cd practica6
+  227  cd practica6
+  228  cd practica6.c
+  229  make pract6
+  230  make pract6
+  231  ./pract6
+  232  code pract6.py
+  233  cd /workspaces/179848462/practica6.c
+  234  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  235  cd /workspaces/179848462/practica6.c
+  236  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  237  cd /workspaces/179848462/practica6.c
+  238  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  239  cd /workspaces/179848462/practica6.c
+  240  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  241  cd /workspaces/179848462/practica6.c
+  242  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  243  cd /workspaces/179848462/practica6.c
+  244  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  245  cd /workspaces/179848462/practica6.c
+  246  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  247  cd /workspaces/179848462/practica6.c
+  248  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  249  cd /workspaces/179848462/practica6.c
+  250  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  251  cd /workspaces/179848462/practica6.c
+  252  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  253  cd ..
+  254  cd /workspaces/179848462/practica6.c
+  255  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  256  cd /workspaces/179848462/practica6.c
+  257  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  258  cd /workspaces/179848462/practica6.c
+  259  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  260  cd /workspaces/179848462/practica6.c
+  261  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  262  cd /workspaces/179848462/practica6.c
+  263  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  264  cd /workspaces/179848462/practica6.c
+  265  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  266  cd /workspaces/179848462/practica6.c
+  267  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  268  cd /workspaces/179848462/practica6.c
+  269  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  270  cd /workspaces/179848462/practica6.c
+  271  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  272  cd /workspaces/179848462/practica6.c
+  273  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  274  cd /workspaces/179848462/practica6.c
+  275  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  276  cd /workspaces/179848462/practica6.c
+  277  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  278  cd /workspaces/179848462/practica6.c
+  279  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  280  cd /workspaces/179848462/practica6.c
+  281  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  282  cd /workspaces/179848462/practica6.c
+  283  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  284  cd /workspaces/179848462/practica6.c
+  285  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  286  cd /workspaces/179848462/practica6.c
+  287  /usr/local/bin/python /workspaces/179848462/practica6.c/pract6.py
+  288  make project
+  289  cd nuevo_project
+  290  cd nuevo_prject
+  291  cd nuevo_project.c
+  292  cd nuevo_project
+  293  make estudio
+  294  make estudio
+  295  make estudio
+  296  make estudio
+  297  make estudio
+  298  ./ estudio
+  299  make estudio
+  300  ./ estudio
+  301  make estudio
+  302  ./ estudio
+  303  ./ estudio
+  304  ./estudio
+  305  make estudio
+  306  make estudio
+  307  make estudio
+  308  make estudio
+  309  ./estudio
+  310  make estudio2
+  311  ./estuio2
+  312  ./estudio2
+  313  make metodo
+  314  ./metodo
+  315  make metodo22
+  316  make metodo22
+  317  cd nuevo_project
+  318  make estudio
+  319  make estudio
+  320  ,/estudio
+  321  ./estudio
+  322  make estudio
+  323  ./estudio
+  324  make castle
+  325  ./castle
+  326  make castle
+  327  make castle
+  328  make castle
+  329  ./castle
+  330  make castle
+  331  ./castle
+  332  make castle
+  333  ./castle
+  334  make castle
+  335  ./castle
+  336  make castle
+  337  ./castle
+  338  make castle
+  339  ./castle
+  340  make castle
+  341  ./castle
+  342  cd..
+  343  cd ..
+  344  cd nuevo?project
+  345  make castillo
+  346  ./castillo
+  347  make castillo
+  348  ./castillo
+  349  make castillo
+  350  ./castillo
+  351  make castillo
+  352  ./castillo
+  353  make castillo
+  354  ,/castillo
+  355  ./castillo
+  356  make castillo
+  357  ./castillo
+  358  make castillo
+  359  ./castillo
+  360  make castilloyo
+  361  make castilloyo
+  362  ./castilloyo
+  363  cd nuevo_project
+  364  make castillo
+  365  ./castillo
+  366  cd nue?castillo
+  367  cd nuevo_castillo
+  368  cd nuevo_project
+  369  make castilloyo
+  370  ./castilloyo
+  371  make castillo
+  372  ./castillo
+  373  make castillo
+  374  ./castillo
+  375  make castillo
+  376  ./castillo
+  377  ./castillo
+  378  ./castillo
+  379  ./castillo
+  380  make castillo
+  381  ./castillo
+  382  make castillo
+  383  cd nuevo?project
+  384  make castillo
+  385  ./castillo
+  386  make castilloyo
+  387  ./castilloyo
+  388  ./castilloyo
+  389  ./castle
+  390  cd practica6
+  391  cd practica6
+  392  pwd
+  393  cd examen
+  394  make examen.c
+  395  make examen
+  396  ./examen
+  397  ./examen
+  398  make examen 
+  399  ./examen
+  400  make examen
+  401  ./examen
+  402  make examen
+  403  ./examen
+  404  make examen
+  405  ./examen
+  406  cd ..
+  407  pwd
+  408  cd ..
+  409  mkdir temporal
+  410  cd temporal
+  411  code examen.c
+  412  touch examen.c
+  413  git init 
+  414  git add examen.c
+  415  git add .
+  416  git commit -m "ejercicio del examen"
+  417  git remote add origin https://github.com/IsaiDp/Examenej.git
+  418  git push -u origin  main
+  419  history
+  420  touch comando.txt
+  421  cd comando.txt
+  422  history > comando.txt
+  423  cd comando
+  424  code .
+  425  code history
+  426  hitory > history.txt
+  427  remove history
+  428  history > comandos.txt
+  429  code comandos .txt
+  430  ls
+  431  history > comandos.txt
